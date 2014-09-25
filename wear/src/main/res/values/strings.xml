@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Watchface Mathematical</string>
+    <string name="mathematics_name">Mathematics</string>
+    <string name="sexy_name">Sexy</string>
+    <string name="red_name">Red</string>
+    <string name="orange_name">Orange</string>
+    <string name="hello_round">Enjoy with Round World!</string>
+    <string name="hello_square">Enjoy with Square World!</string>
+    <string name="title_activity_orange_watch">OrangeWatchActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
